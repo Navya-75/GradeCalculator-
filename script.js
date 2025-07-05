@@ -1,4 +1,4 @@
-function calculateGrade() {
+8function calculateGrade() {
   const marks = [
     parseFloat(document.getElementById("sub1").value),
     parseFloat(document.getElementById("sub2").value),
